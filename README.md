@@ -74,3 +74,5 @@ if binary_pred == 1:
 ```
 
 The high accuracy of both models demonstrates the effectiveness of the wavelet-based feature extraction and two-stage classification approach for motor fault diagnosis.
+
+Link to Kaggle Notebook: https://www.kaggle.com/code/ayushraj911/vibrational-analysis-of-motor
