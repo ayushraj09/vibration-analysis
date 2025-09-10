@@ -84,7 +84,7 @@ streamlit run src/app.py
 ### Performance
 - Binary Classification Accuracy: 100%
 - Multi-class Classification Accuracy: 99.48%
-
+(on held-up test data)
 ## Dataset
 
 Uses MAFAULDA dataset containing vibration measurements:
