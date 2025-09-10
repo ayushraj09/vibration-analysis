@@ -41,7 +41,7 @@ pip install -r requirements.txt
 streamlit run src/app.py
 ```
 
-2. Upload a CSV file from the MAFAULDA dataset through the web interface
+2. Upload a CSV file of vibration data from the MAFAULDA dataset or any other but it should match the number of features through the web interface
 3. View the prediction results
 
 ## Technical Details
